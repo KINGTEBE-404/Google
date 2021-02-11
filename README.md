@@ -9,7 +9,7 @@ $ pkg install git
 $ pkg install python
 $ pip install requests
 $ pip install bs4
-$ git clone https://github.com/KINGTEBE-404/Google
+$ git clone https://github.com/Kingtebe/Google
 $ cd Google
 $ python run.py
 ``` 
